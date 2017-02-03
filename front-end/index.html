@@ -15,16 +15,16 @@
         {id: 0, pid: -1, name: "t1"},
         {id: 1, pid: 0, name: "t2_1"},
         {id: 2, pid: 0, name: "t2_2"},
-        {id: 3, pid: 1, name: "t3_1"},
-        {id: 4, pid: 1, name: "t3_2"},
-        {id: 5, pid: 2, name: "t3_3"},
-        {id: 6, pid: 2, name: "t3_4"}
+        {id: 3, pid: 1, name: "t2_1_1"},
+        {id: 4, pid: 1, name: "t2_1_2"},
+        {id: 5, pid: 2, name: "t2_2_1"},
+        {id: 6, pid: 2, name: "t2_2_2"}
     ]
     //分层
-    var level = 4;
+    var level = 3;
     //canvas 长宽
-    var width = 1000;
-    var height = 1000;
+    var width = 700;
+    var height = 700;
     //设置canvas 画布
     canvas.width = width;
     canvas.height = height;
@@ -32,6 +32,7 @@
     ctx.font = "Bold 20px Arial";
     ctx.lineWidth = 5;
     var obj = new paint_obj(ctx);
+    obj.level = level;
     obj.paint(width, height, level, data_tree);
 </script>
 </body>

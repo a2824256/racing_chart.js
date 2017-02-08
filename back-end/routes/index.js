@@ -5,7 +5,6 @@ var PATH = './data/';
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-    var type = req.param('type') || '';
     fs.readFile(PATH + 'data.json', function (err, data) {
         if (err) {
             //send 直接发送 string

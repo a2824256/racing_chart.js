@@ -24,9 +24,13 @@ function paint_obj(ctx) {
     }
 
     this.set_font = function (x, y) {
+        var name = null;
         this.ctx.textAlign = "center";
         this.ctx.fillStyle = "#008600";
-        this.ctx.fillText(this.data[this.index]['name'], x, y);
+        if (this.data[this.index] != undefined) {
+            name = this.data[this.index]['name'];
+        }
+        this.ctx.fillText(name, x, y);
         if (this.index <= this.arr_length - 1)
             this.index++;
     }

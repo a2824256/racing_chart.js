@@ -1,5 +1,5 @@
 # racing_chart.js
-This project is used create a racing chart.
+This project is used for create a racing chart.
 
 # Author
 Alex Leung e-mail address lygg725@163.com

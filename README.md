@@ -2,9 +2,8 @@
 This project is used for create a racing chart.
 
 # Author
-Alex Leung e-mail address lygg725@163.com
-
-Random Mo  e-mail address 454334938@qq.com
+Alex Leung <br/>
+Random Mo
 
 # 启动服务端
 进入back-end目录

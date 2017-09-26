@@ -1,5 +1,5 @@
-# racing_chart.js
-This project is used for create a racing chart.
+# match_map.js
+This project is used for create a match map.
 
 # Author
 Alex Leung <br/>

@@ -6,4 +6,4 @@ Alex Leung <br/>
 Random Mo
 
 # View
-![image](https://github.com/a2824256/match_map_js/view.png)
+![image](https://github.com/a2824256/match_map_js/blob/master/view.png)

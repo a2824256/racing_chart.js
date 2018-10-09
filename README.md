@@ -1,4 +1,4 @@
-# match_map.js
+# racing_chart.js
 This project is used for create a match map.
 
 # Author

@@ -2,7 +2,7 @@
 This project is used for create a racing chart.
 
 # Author
-Alex Leung <br/>
+Alex Leung(https://github.com/a2824256) <br/>
 Random Mo(https://github.com/zq2852829)
 
 # View

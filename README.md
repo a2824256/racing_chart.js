@@ -5,7 +5,7 @@ This project is used for create a racing chart.
 Alex Leung (https://github.com/a2824256) <br/>
 Random Mo (https://github.com/zq2852829)
 
-# TODO-List
+# ToDo-List
 1.Update to ES6 syntax
 
 # View

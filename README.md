@@ -1,5 +1,5 @@
 # racing_chart.js
-This project is used for create a racing chart.
+This project is used for create a racing chart. The racing chart is based on Canvas.
 
 # Author
 Alex Leung (https://github.com/a2824256) <br/>

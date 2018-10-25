@@ -6,7 +6,7 @@ Alex Leung (https://github.com/a2824256) <br/>
 Random Mo (https://github.com/zq2852829)
 
 # ToDo-List
-1.Update to ES6 syntax
+1.Update to ES6 syntax <br/>
 2.支持5层以上
 
 # View
